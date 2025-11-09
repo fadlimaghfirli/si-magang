@@ -13,5 +13,8 @@
         "postcss": "^8.5.6",
         "tailwindcss": "^3.4.18",
         "vite": "^6.0.11"
+    },
+    "dependencies": {
+        "flowbite": "^3.1.2"
     }
 }
